@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FF87CEE5-9448-4937-9A87-2F9E9C8EDFDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Festo_EXCM_CvE.My.MyApplication</StartupObject>
+    <RootNamespace>Festo_EXCM_CvE</RootNamespace>
+    <AssemblyName>Festo_EXCM_CvE</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Festo_EXCM_CvE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Festo_EXCM_CvE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classGantry.vb" />
+    <Compile Include="classPLC.vb" />
+    <Compile Include="Control_RoundButtonForPictureBox.vb" />
+    <Compile Include="Globals.vb" />
+    <Compile Include="obj3Dpoint.vb" />
+    <Compile Include="PLC Command Classes\objCommand_Home.vb" />
+    <Compile Include="PLC Command Classes\objCommand_Insert.vb" />
+    <Compile Include="PLC Command Classes\objCommand_Move.vb" />
+    <Compile Include="PLC Command Classes\objCommand_StopRun.vb" />
+    <Compile Include="PLC Command Classes\objCommand_Wait.vb" />
+    <Compile Include="PLC Command Classes\objCommand_WaitForRun.vb" />
+    <Compile Include="objConnector.vb" />
+    <Compile Include="objConnector_Pin.vb" />
+    <Compile Include="objCvE_Transmission.vb" />
+    <Compile Include="objOutline.vb" />
+    <Compile Include="objTray.vb" />
+    <Compile Include="objUserProgram.vb" />
+    <Compile Include="objXY_System.vb" />
+    <Compile Include="ProductFunctions.vb" />
+    <Compile Include="RoundButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TF.Designer.vb">
+      <DependentUpon>TF.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UI_ConnectionError.Designer.vb">
+      <DependentUpon>UI_ConnectionError.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_ConnectionError.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_CopyConnector.Designer.vb">
+      <DependentUpon>UI_CopyConnector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_CopyConnector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_DirectControl.Designer.vb">
+      <DependentUpon>UI_DirectControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_DirectControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_Error.Designer.vb">
+      <DependentUpon>UI_Error.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Error.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_ModifyConnector.Designer.vb">
+      <DependentUpon>UI_ModifyConnector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_ModifyConnector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_ModifyTray.Designer.vb">
+      <DependentUpon>UI_ModifyTray.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_ModifyTray.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_Setup.Designer.vb">
+      <DependentUpon>UI_Setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_Setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_ModifyMove.Designer.vb">
+      <DependentUpon>UI_ModifyMove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_ModifyMove.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_PleaseWait.Designer.vb">
+      <DependentUpon>UI_PleaseWait.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_PleaseWait.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_TrayCreator.Designer.vb">
+      <DependentUpon>UI_TrayCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TrayCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPrograms.vb" />
+    <Compile Include="WF_Instructions.Designer.vb">
+      <DependentUpon>WF_Instructions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WF_Instructions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XML_Tools.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TF.resx">
+      <DependentUpon>TF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_ConnectionError.resx">
+      <DependentUpon>UI_ConnectionError.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_CopyConnector.resx">
+      <DependentUpon>UI_CopyConnector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_DirectControl.resx">
+      <DependentUpon>UI_DirectControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Error.resx">
+      <DependentUpon>UI_Error.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_ModifyConnector.resx">
+      <DependentUpon>UI_ModifyConnector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_ModifyTray.resx">
+      <DependentUpon>UI_ModifyTray.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_Setup.resx">
+      <DependentUpon>UI_Setup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_ModifyMove.resx">
+      <DependentUpon>UI_ModifyMove.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_PleaseWait.resx">
+      <DependentUpon>UI_PleaseWait.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TrayCreator.resx">
+      <DependentUpon>UI_TrayCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WF_Instructions.resx">
+      <DependentUpon>WF_Instructions.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,112 @@
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.Cache
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.CoreCompileInputs.cache
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.Cache
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+C:\Users\swill\Documents\VB\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+F:\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+C:\Users\William\Desktop\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.Cache
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+C:\Users\William\Documents\C-Davis\Festo Control\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.Cache
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.Cache
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Documents\C-Davis\Festo Control_ComputerControl\Festo_EXCM_CvE\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.Cache
+C:\Users\William\Documents\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_ModifyMove.resources
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_ModifyMove.resources
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_PleaseWait.resources
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.cache
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.CoreCompileInputs.cache
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.WF_Instructions.resources
+D:\C-Davis\XY-Feeder\Festo Control_ComputerControl\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UF_IP_Address.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe.config
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.exe
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.pdb
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\bin\Debug\Festo_EXCM_CvE.xml
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbprojResolveAssemblyReference.cache
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.Resources.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.TF.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.WF_Instructions.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.GenerateResource.cache
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.vbproj.CoreCompileInputs.cache
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.exe
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.xml
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.pdb
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_CopyConnector.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_Error.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_Setup.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_ModifyMove.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_PleaseWait.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_DirectControl.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_TrayCreator.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_ConnectionError.resources
+D:\C-Davis\XY-Feeder\Visual Control\Festo Control_ComputerControl-Visual\Festo_EXCM_CvE\obj\Debug\Festo_EXCM_CvE.UI_ModifyConnector.resources
